@@ -1,10 +1,7 @@
-# Tik Tak Toe Mobile Game
+# Noughts and Crosses Mobile Game
  Enjoy a classic Tic-Tac-Toe game with a sleek design and smooth gameplay. Play solo against a or challenge a friend in two-player mode. Fun, fast, and engaging! 🎮✨
 
- A fun and interactive mobile game built for smooth and engaging gameplay. Designed with an elegant and responsive UI, the game offers both single-player and two-player modes. while multiplayer mode allows friendly competition. Built with Kotlin, this app ensures a seamless and optimized gaming experience. Whether you're looking for a quick game to pass the time or a competitive challenge, this Tic-Tac-Toe app is perfect for all ages.
-
-
-A modern and engaging Tic-Tac-Toe game built with Kotlin and Android Studio, offering both single-player and multiplayer modes. The game features a sleek and intuitive UI, providing an enjoyable experience for players of all ages.
+ A fun and interactive mobile game built for smooth and engaging gameplay. Designed with an elegant and responsive UI, the game offers both single-player and two-player modes. while multiplayer mode allows friendly competition. Built with Kotlin, this app ensures a seamless and optimized gaming experience. Whether you're looking for a quick game to pass the time or a competitive challenge, this Noughts and Crosses app is perfect for all ages.
 
 # Features
 
